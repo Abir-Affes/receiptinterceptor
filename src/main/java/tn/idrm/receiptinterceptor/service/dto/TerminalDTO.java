@@ -3,9 +3,6 @@ package tn.idrm.receiptinterceptor.service.dto;
 import java.io.Serializable;
 import java.util.Objects;
 
-/**
- * A DTO for the {@link tn.idrm.receiptconstructor.domain.Terminal} entity.
- */
 @SuppressWarnings("common-java:DuplicatedBlocks")
 public class TerminalDTO implements Serializable {
 

@@ -7,9 +7,6 @@ import java.util.Objects;
 import tn.idrm.receiptinterceptor.domain.enumeration.result;
 import tn.idrm.receiptinterceptor.domain.enumeration.trans_type;
 
-/**
- * A DTO for the {@link tn.idrm.receiptconstructor.domain.Receipt} entity.
- */
 @SuppressWarnings("common-java:DuplicatedBlocks")
 public class ReceiptDTO implements Serializable {
 
